@@ -1,0 +1,1 @@
+from models.resnets.resnets import resnet20s
